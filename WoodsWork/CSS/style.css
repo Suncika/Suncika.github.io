@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+}
+html{
+     font-family: sans-serif;
+    color: white;
+ 
+    background-image: url("../IMG/BackGround2.jpg");
+    }
+img{
+    padding-left: 40px;
+}
